@@ -1,0 +1,4 @@
+nc: 2
+names: ['cell', 'dead']
+train: Z:/CellDetect/CellDetect/yolov5/data_finetune/adam/images/train
+val: Z:/CellDetect/CellDetect/yolov5/data_finetune/adam/images/valid

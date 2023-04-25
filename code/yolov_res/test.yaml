@@ -1,0 +1,3 @@
+train: mydata2/images/train
+nc: 2
+names: ['cell', 'dead']
