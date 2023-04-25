@@ -1,0 +1,5 @@
+res.pt filter=lfs diff=lfs merge=lfs -text
+*res.pt filter=lfs diff=lfs merge=lfs -text
+*.pt filter=lfs diff=lfs merge=lfs -text
+code/yolov_res/models/weight/pretrain_X.pt filter=lfs diff=lfs merge=lfs -text
+code/yolov_res/models/weight/default_model/yolo.pt filter=lfs diff=lfs merge=lfs -text
